@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HIT-peijin
+- 👋 Hi, I’m peijin
 - 👀 I’m interested in ...deep learning
 - 🌱 I’m currently learning ...nlp
 - 💞️ I’m looking to collaborate on ...
